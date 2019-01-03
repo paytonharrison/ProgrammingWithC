@@ -1,6 +1,5 @@
 # ProgrammingWithC
-All of the labs created for MSU's CSCI 112 course
-Taken in the Fall of 2018
+All of the labs created for MSU's CSCI 112 course taken in the Fall of 2018
 
 Here is a description of each c file:
 
